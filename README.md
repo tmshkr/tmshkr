@@ -7,4 +7,4 @@ My name is Tim Shaker. I'm a full-stack engineer looking to build useful things.
 * 💻 Ask me anything about JavaScript, React, and Python
 * 📫 You can email me at tim@tmshkr.com with any questions. Always happy to help!
 
-Feel free to check out my [website](https://www.tmshkr.com) and have an awesome day 😎
+Make sure to check out my [website](https://www.tmshkr.com) and have an awesome day 😎
