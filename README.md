@@ -3,7 +3,7 @@
 My name is Tim Shaker. I'm a full-stack developer looking to build useful things.
 
 * 💼 &nbsp;I’m always looking for interesting projects to work on, so feel free to reach out
-* I ❤️ JavaScript, Node, and React
+* I ❤️ JavaScript, TypeScript, React.js, Node.js, and serverless architecture
 * 📫 &nbsp;You can email me at tim@tmshkr.com
 
 Make sure to check out my <a href="https://www.tmshkr.dev" target="_blank" rel="noopener noreferrer">website</a> and have an awesome day 🖖
